@@ -6,5 +6,6 @@ int main()
     []()
     { cout << "hello\n"; }();
   cout<<"Hello!  from remote!"<<endl;  
+  cout<<"Hello!  from local"<<endl;
   return 0;
 }
